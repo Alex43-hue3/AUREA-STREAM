@@ -1,5 +1,20 @@
 [
   {
+    "id": "item-1795736513061",
+    "type": "live",
+    "title": "María Visión",
+    "category": "Religioso",
+    "year": "EN VIVO",
+    "duration": "24/7",
+    "rating": "LIVE",
+    "featured": true,
+    "poster": "https://i.imgur.com/GylOPxE.png",
+    "backdrop": "https://i.imgur.com/GylOPxE.png",
+    "description": "Religioso",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+    "sourceType": "m3u8"
+  },
+  {
     "id": "demo-movie-1",
     "type": "movie",
     "title": "Big Buck Bunny (Demo MP4)",
@@ -7,7 +22,7 @@
     "year": "2024",
     "duration": "10 min",
     "rating": "ATP",
-    "featured": true,
+    "featured": false,
     "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=800&q=80",
     "backdrop": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=80",
     "description": "Película de demostración en formato MP4 directo lista para reproducir con controles nativos.",
