@@ -1,5 +1,20 @@
 [
   {
+    "id": "item-1795751567946",
+    "type": "live",
+    "title": "Vevo Pop UK",
+    "category": "Música",
+    "year": "EN VIVO",
+    "duration": "24/7",
+    "rating": "LIVE",
+    "featured": true,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHL3lWW3-trM6oXym72AbmQlQmT_AE4nJDdzG926aUiMKw8hlk1nVaxjA&s=10",
+    "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw36ujxumQYqru1bVXudCdcLUbzAydOshqHDALzsxMUEuvlltBOLHPlA&s=10",
+    "description": "Música",
+    "url": "https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8",
+    "sourceType": "m3u8"
+  },
+  {
     "id": "item-1795751425143",
     "type": "live",
     "title": "Imagen Universal TV",
@@ -7,7 +22,7 @@
     "year": "EN VIVO",
     "duration": "24/7",
     "rating": "LIVE",
-    "featured": true,
+    "featured": false,
     "poster": "https://cdn.colombia.com/canales/imagen-universal-tv-5376.jpg",
     "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTggK2_b7JgiqTd5dUQjGKse-jQyUYSSQiL-b99lz2jzaHeppII19AXhyQ&s=10",
     "description": "Películas",
