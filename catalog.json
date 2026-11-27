@@ -1,5 +1,20 @@
 [
   {
+    "id": "item-1795751207952",
+    "type": "live",
+    "title": "Las Estrellas",
+    "category": "Entretenimiento",
+    "year": "EN VIVO",
+    "duration": "24/7",
+    "rating": "LIVE",
+    "featured": true,
+    "poster": "https://st1.uvnimg.com/6a/34/43170cc70baee621d09e0c70ba95/las-estrellas.jpg",
+    "backdrop": "https://www.lasestrellas.tv/_next/image?url=https%3A%2F%2Fst1.uvnimg.com%2Fa7%2Fab%2F5da6d3af45e8b07ab372d6059407%2Fframe-23441-min.png&w=1280&q=75",
+    "description": "novelas mexicanas, noticias, etc.",
+    "url": "https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8",
+    "sourceType": "m3u8"
+  },
+  {
     "id": "item-1795751072126",
     "type": "live",
     "title": "Curiosity Motores",
@@ -7,7 +22,7 @@
     "year": "EN VIVO",
     "duration": "24/7",
     "rating": "LIVE",
-    "featured": true,
+    "featured": false,
     "poster": "https://static-ottera.com/prod/est/video/thumbnails/square/en_vivo_curiosity_motores.jpg?VersionId=afl0o06uE1mGc345aJbpqA.b_aqYSaLl",
     "backdrop": "https://img2.static-ottera.com/prod/est/video/thumbnails/widescreen/960x540/curiosity_motorescuriosity_motores_1920x1080.jpg",
     "description": "Documentales de motores",
