@@ -1,5 +1,20 @@
 [
   {
+    "id": "item-1795750917532",
+    "type": "live",
+    "title": "Curiosity Explora",
+    "category": "Documentales",
+    "year": "EN VIVO",
+    "duration": "24/7",
+    "rating": "LIVE",
+    "featured": false,
+    "poster": "https://static-ottera.com/prod/est/video/thumbnails/square/en_vivo_curiosity_explora.jpg?VersionId=UwBnAyzoh81S1czBlhrjcKK3EMNPmEi.",
+    "backdrop": "https://static-ottera.com/prod/est/video/thumbnails/square/en_vivo_curiosity_explora.jpg?VersionId=UwBnAyzoh81S1czBlhrjcKK3EMNPmEi.",
+    "description": "Documentales",
+    "url": "https://d2bvy2sb4c0dbv.cloudfront.net/CuriosityEspanol.m3u8",
+    "sourceType": "m3u8"
+  },
+  {
     "id": "item-1795750778230",
     "type": "live",
     "title": "Curiosity Animales",
