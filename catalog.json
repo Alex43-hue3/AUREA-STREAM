@@ -45,21 +45,6 @@
     "sourceType": "m3u8"
   },
   {
-    "id": "demo-movie-1",
-    "type": "movie",
-    "title": "Big Buck Bunny (Demo MP4)",
-    "category": "Animación",
-    "year": "2024",
-    "duration": "10 min",
-    "rating": "ATP",
-    "featured": false,
-    "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?auto=format&fit=crop&w=800&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1600&q=80",
-    "description": "Película de demostración en formato MP4 directo lista para reproducir con controles nativos.",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "sourceType": "mp4"
-  },
-  {
     "id": "demo-movie-2",
     "type": "movie",
     "title": "Horizonte Cósmico (Demo YouTube)",
