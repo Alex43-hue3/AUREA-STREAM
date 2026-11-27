@@ -1,5 +1,20 @@
 [
   {
+    "id": "item-1795751425143",
+    "type": "live",
+    "title": "Imagen Universal TV",
+    "category": "Películas",
+    "year": "EN VIVO",
+    "duration": "24/7",
+    "rating": "LIVE",
+    "featured": true,
+    "poster": "https://cdn.colombia.com/canales/imagen-universal-tv-5376.jpg",
+    "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTggK2_b7JgiqTd5dUQjGKse-jQyUYSSQiL-b99lz2jzaHeppII19AXhyQ&s=10",
+    "description": "Películas",
+    "url": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8",
+    "sourceType": "m3u8"
+  },
+  {
     "id": "item-1795751207952",
     "type": "live",
     "title": "Las Estrellas",
@@ -7,7 +22,7 @@
     "year": "EN VIVO",
     "duration": "24/7",
     "rating": "LIVE",
-    "featured": true,
+    "featured": false,
     "poster": "https://st1.uvnimg.com/6a/34/43170cc70baee621d09e0c70ba95/las-estrellas.jpg",
     "backdrop": "https://www.lasestrellas.tv/_next/image?url=https%3A%2F%2Fst1.uvnimg.com%2Fa7%2Fab%2F5da6d3af45e8b07ab372d6059407%2Fframe-23441-min.png&w=1280&q=75",
     "description": "novelas mexicanas, noticias, etc.",
