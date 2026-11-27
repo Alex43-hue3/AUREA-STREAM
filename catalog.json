@@ -43,20 +43,5 @@
     "description": "Religioso",
     "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
     "sourceType": "m3u8"
-  },
-  {
-    "id": "demo-live-1",
-    "type": "live",
-    "title": "NASA TV • Transmisión en Vivo",
-    "category": "Ciencia y Espacio",
-    "year": "EN VIVO",
-    "duration": "24/7",
-    "rating": "LIVE",
-    "featured": false,
-    "poster": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=800&q=80",
-    "backdrop": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1600&q=80",
-    "description": "Señal oficial en directo con cobertura espacial y vistas desde la Estación Espacial Internacional.",
-    "url": "https://www.youtube.com/watch?v=21X5lGlDOfg",
-    "sourceType": "youtube"
   }
 ]
